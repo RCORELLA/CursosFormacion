@@ -13,11 +13,13 @@ Origen de datos Web
 
 ![](Recursos/Aspose.Words.877fdbe4-18f1-4863-bdfb-a6c2e49d2d4c.003.png)
 
-Transformar datos
+**Transformar datos**
 
 - Cambiar columnas
+
 - Divide Columna 2 en Ciudad y Pais
 
+Separamos por comas
 
 ![](Recursos/Aspose.Words.877fdbe4-18f1-4863-bdfb-a6c2e49d2d4c.004.png)
 
@@ -33,5 +35,7 @@ Extraer lo 15 últimos caracteres
 
 ![](Recursos/Aspose.Words.877fdbe4-18f1-4863-bdfb-a6c2e49d2d4c.007.png)
 
-Insertar un mapa coropletico
+Insertar una tabla con Nombre y país
+
+Insertar un mapa coropletico, añadiendo 
 
