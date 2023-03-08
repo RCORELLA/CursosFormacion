@@ -51,19 +51,30 @@ Le indicamos el número de caracteres a extraer:
 
 5 - Usamos la misma función, para extraer los últimos caracteres, pero con la opción **"Últimos caracteres"**
 
-6 - En la última columna observamos que tenemos "Reservar una mesa" o null.  Sustituimos el valor "null" por "Sin reserva"
 
-![](Recursos/paso2.png)
-
-
-
-
-
-![](Recursos/Aspose.Words.877fdbe4-18f1-4863-bdfb-a6c2e49d2d4c.006.png)
+6 - Usamos la función **Recortar** para eliminar los espacios que tengamos delante.
 
 ![](Recursos/Aspose.Words.877fdbe4-18f1-4863-bdfb-a6c2e49d2d4c.007.png)
 
-Insertar una tabla con Nombre y país
+7 - En la última columna observamos que tenemos "Reservar una mesa" o null.  Sustituimos el valor "null" por "Sin reserva"
 
-Insertar un mapa coropletico, añadiendo 
+![](Recursos/paso2.png)
+
+8 - Renombramos los nombres de las columnas Nombre, Ciudad, País, Precio, Tipo de comida, Reservas si o no
+
+9 - Guardamos y aplicamos los cambios
+
+10 - Insertar una tabla con Nombre, ciudad y país
+
+![](Recursos/total.png)
+
+11 - Insertar un mapa coropletico, añadiendo ciudad (Ubicación) y pais (leyenda)
+
+12 - Añadimos un segmentador de "Reserva sí o no"
+
+13 - Modificamos la propiedad del segmentador a "Mosáico"
+
+14 - Añadir una imagen al report, como logotipo
+
+15 - Guardar
 
