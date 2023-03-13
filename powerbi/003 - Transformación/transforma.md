@@ -40,7 +40,7 @@ if ([#"Cód. país/región"] <> null ) then [#"Cód. país/región"] else
    if (Text.Length([Codigo Postal])=5) then 
       "ES" else "DESCONOCIDO"
 	  
-![](Recursos/columnapais.png)	  
+![](Recursos/columnaPais.png)	  
 
 
 9 - Quitar la columna "Cód. Pais / region"
