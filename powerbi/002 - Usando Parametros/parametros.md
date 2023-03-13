@@ -4,6 +4,15 @@
 
 Necesitamos tener un parametro con la ruta de nuestros ficheros Excel para en caso de que cambien de ubicación poderlo modificar rápidamente.
 
+**Ejercicio**
+
+1 - Descargarnos el fichero **ventas.xlsx** de la carpeta Recursos
+
+2 - Guardarlo en el escritorio
+
+3 - Abrir Power BI y cargar el fichero de excel recien descargado.
+
+4 - Guardar el fichero 
 
 
 **Desde Power Query Editor**
