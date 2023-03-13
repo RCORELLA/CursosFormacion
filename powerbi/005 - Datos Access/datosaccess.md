@@ -44,7 +44,7 @@ https://github.com/RCORELLA/CursosFormacion/blob/main/powerbi/004%20-%20Importac
 
 4 - Seleccionamos las tablas indicadas y pulsamos "Transformar datos", lo que nos abrirá el Power Query
 	
-5 - Filtrar bi_salesFact para que nos muestre las fechas posteriores al 31/12/2000
+5 - Filtrar bi_salesFact para que nos muestre las fechas posteriores al 31/12/1999
 
 6 - Renombramos las consultas como:
 	
