@@ -2,7 +2,7 @@
 
 **Limpieza y transformación**
 
-Basándonos en el ejercicio 001, vamos a realizar varias transformaciones.
+Basándonos en el ejercicio 002, vamos a realizar varias transformaciones.
 
 https://github.com/RCORELLA/CursosFormacion/blob/main/powerbi/002%20-%20Usando%20Parametros/parametros.md
 
