@@ -15,7 +15,7 @@ Descargar la base de datos access de:
 
 https://pruebasformacion.blob.core.windows.net/power/powerbi/PBI.rar
 
-Descomprimirla y guardarla en c:\Recursos\.
+Descomprimirla y guardarla en c:\Recursos_xx\, donde XX son vuestras iniciales.
 
 Cuando abrimos Power BI, por defecto nos va a poner la configuración regional española.  Los datos están con formatos de fecha en inglés Americano, por lo que sería interesante, cambiar la configuración desde Fichero / Opciones / Configuración Regional "Inglés (Estados Unidos)"
 
@@ -34,7 +34,7 @@ https://github.com/RCORELLA/CursosFormacion/blob/main/powerbi/004%20-%20Importac
 
 ![](Recursos/access.png)
 
-2 - Seleccionamos la carpeta localizada en c:\recursos\internacional y pulsamos Aceptar
+2 - Seleccionamos la carpeta localizada en c:\recursos_xx\ y pulsamos Aceptar
 
 ![](Recursos/abrirFichero.png)
 
@@ -57,7 +57,7 @@ https://github.com/RCORELLA/CursosFormacion/blob/main/powerbi/004%20-%20Importac
 
 10 - Cerrar y Aplicar (Puede tardar unos minutos en aplicarse)
 
-11 - Guardar el fichero como "Ventas Cronus.pbix"
+11 - Guardar el fichero como "Ventas Cronus XX.pbix" en c:\misSoluciones_XX\, donde XX serán vuestras inciales.
 
 
 
