@@ -9,7 +9,7 @@ Procederemos a importar los ficheros que tengamos en un Power BI Desktop.
 
 **Preparación**
 
-Descargar la carpeta **internacional**, que se encuentra en "Recursos".  Guardarla en c:\Recursos\.
+Descargar la carpeta **internacional**, que se encuentra en "Recursos".  Guardarla en c:\Recursos_XX\, donde XX seran vuestras iniciales.
 
 Cuando abrimos Power BI, por defecto nos va a poner la configuración regional española.  Los datos están con formatos de fecha en inglés Americano, por lo que sería interesante, cambiar la configuración desde Fichero / Opciones / Configuración Regional "Inglés (Estados Unidos)"
 
@@ -25,7 +25,7 @@ Pulsar, aplicar cambios.
 
 ![](Recursos/carpeta.png)
 
-2 - Seleccionamos la carpeta localizada en c:\recursos\internacional y pulsamos Aceptar
+2 - Seleccionamos la carpeta localizada en c:\recursos_XX\internacional y pulsamos Aceptar
 
 ![](Recursos/seleccion.png)
 
@@ -54,7 +54,7 @@ Pulsar, aplicar cambios.
 
 10 - Cerrar y Aplicar
 
-11 - Guardar el fichero como "Ventas Cronus.pbix"
+11 - Guardar el fichero como "Ventas Cronus.pbix" en c:\misSoluciones_XX, donde XX serán vuestras iniciales.
 
 
 
