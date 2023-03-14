@@ -17,14 +17,14 @@ Necesitamos tener un parametro con la ruta de nuestros ficheros Excel para en ca
 ![](Recursos/excel.png)
 
 4 - Crear un visualizador de "Columnas apiladas" y poner las ventas por Area
-	- Eje X: Area Código
-	- Eje Y: Suma Ventas (DL)
+	- Eje X: Ventas | Area Código
+	- Eje Y: Ventas | Suma Ventas (DL)
 	
 ![](Recursos/ventasAreas.png)	
 
-5 - Guardar el fichero PBIX como "ventasHotel.pbix" en una nueva carpeta llamada "c:\misSoluciones"
+5 - Guardar el fichero PBIX como "ventasHotel_XX.pbix" en una nueva carpeta llamada "c:\misSoluciones_XX", donde XX serán vuestras iniciales.
 
-6 - Crear una carpeta en c:\ llamada recursos y mover (no copiar) allí el fichero **ventas.xlsx**
+6 - Crear una carpeta en c:\ llamada recursos_XX (donde XX son vuestras iniciales) y mover (no copiar) allí el fichero **ventas.xlsx**
 
 7 - Desde Power BI Desktop, menú Inicio acción "Actualizar", nos permite obtener los cambios en el fichero de origen, pero:
 
@@ -41,7 +41,7 @@ Necesitamos tener un parametro con la ruta de nuestros ficheros Excel para en ca
 
 ![](Recursos/param01.png)
 
-2 – Crear nuevo parámetro "Ruta", donde introduciremos el "Valor actual" como "c:\recursos\"
+2 – Crear nuevo parámetro "Ruta", donde introduciremos el "Valor actual" como "c:\recursos_xx\"
 
 	En el panel de consultas, nos aparecerá el nuevo parámetro creado.
 
@@ -61,7 +61,7 @@ Necesitamos tener un parametro con la ruta de nuestros ficheros Excel para en ca
 
 9 - Actualizar datos.
 
-10 - Guardar el fichero "ventasHotel.pbix"
+10 - Guardar el fichero "ventasHotel_xx.pbix" en la carpeta "c:\misSoluciones_XX"
 
 
 09 de Marzo 2023        @rccorella
