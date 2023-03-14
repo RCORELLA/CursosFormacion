@@ -11,6 +11,11 @@ Procederemos a importar los ficheros que tengamos en un Power BI Desktop.
 
 Descargar la carpeta **internacional**, que se encuentra en "Recursos".  Guardarla en c:\Recursos_XX\, donde XX seran vuestras iniciales.
 
+Para descargar la carpeta, pincha este enlace:
+
+[Link Descarga](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/RCORELLA/CursosFormacion/tree/main/powerbi/004%20-%20Importaci%C3%B3n%20Carpetas/Recursos/Internacional)
+
+
 Cuando abrimos Power BI, por defecto nos va a poner la configuración regional española.  Los datos están con formatos de fecha en inglés Americano, por lo que sería interesante, cambiar la configuración desde Fichero / Opciones / Configuración Regional "Inglés (Estados Unidos)"
 
 ![](Recursos/regional.png)
