@@ -55,11 +55,11 @@ La nomenclatura usada para indicar las tablas y columnas en las relaciones será
 
 
 
-10 - Cerrar y Aplicar (Puede tardar unos minutos en aplicarse)
+6 - Cerrar y Aplicar (Puede tardar unos minutos en aplicarse)
 
-11 - Guardar el fichero como "Ventas Cronus.pbix" en "c:\MisSoluciones_xx\" 
-
-
+7 - Guardar el fichero como "Ventas Cronus.pbix" en "c:\MisSoluciones_xx\" 
 
 
-14 de Marzo 2023        @rccorella
+
+
+15 de Marzo 2023        @rccorella
