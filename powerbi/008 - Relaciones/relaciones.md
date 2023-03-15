@@ -11,7 +11,7 @@ En este ejercicio, comenzamos a relacionar nuestras tablas para realizar nuestro
 
 Debemos tener realizado el ejercicio 007 para poder realizar esta tarea.
 
-La nomenclatura usada para indicar las tablas y columnas en las relaciones será ** Tabla | Columna**.
+La nomenclatura usada para indicar las tablas y columnas en las relaciones será **Tabla | Columna**.
 
 
 
