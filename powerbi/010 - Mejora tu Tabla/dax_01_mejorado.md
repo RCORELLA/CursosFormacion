@@ -59,9 +59,9 @@ Abrir el fichero que tendremos en nuestra carpeta "c:\misSoluciones_XX\Ventas Cr
 
 ![](Recursos/resultado.png)
 
-8 - Cerrar y Aplicar (Puede tardar unos minutos en aplicarse)
 
-9 - Guardar el fichero como "Ventas Cronus.pbix" en "c:\MisSoluciones_xx\" 
+
+8 - Guardar el fichero como "Ventas Cronus.pbix" en "c:\MisSoluciones_xx\" 
 
 
 
