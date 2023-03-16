@@ -8,20 +8,22 @@ En este ejercicio puntuable, procederemos a realizar un escenario completo, bas�
 
 **Escenario**
 
-La empresa Contoso de venta al por menor desea analizar sus ventas para el año pasado y compararlas con las ventas del año anterior para identificar la variación, así como las unidades vendidas en cada páis.
+La empresa Contoso de venta al por menor desea analizar sus ventas por años y compararlas con las ventas del año anterior para identificar la variación, así como las unidades vendidas en cada páis.
 
 
 **Ejercicio 1: Obtener datos de diversas fuentes** (2 puntos)
 
-Descarga el archivo de "ventas Contoso.xlsx" correspondiente a las ventas de los últimos años en formato Excel y guárdalo en tu ordenador en la carpeta c:\recursos_xx, donde XX corresponderá a tus iniciales.
+Descarga el archivo "Valores.rar" que encontrarás la carpeta recursos de este ejercicio y descárgalos en tu PC.  Descomprímelo y guarda los archivos en c:\recursos_xx, donde XX corresponderá a tus iniciales.
+
+Importa los datos de ventas contenidos en el archivo "Ventas Contoso.xlsx"
 
 Importa los datos de clientes del archivo de texto:  "clientes_onsite.csv".
 
-Importa los datos de clientes web del archivo de texto:  "clientes_web.csv".
+Importa los datos de clientes web del archivo de texto:  "clientesWeb.csv".
 
 Importa los productos del archivo de excel productos.xlsx.
 
-Usar un parámetro ruta, para indicar el directorio donde están almacenados los origenes de los datos.
+Usar un parámetro Ruta, para indicar el directorio donde están almacenados los origenes de los datos.
 
 **Ejercicio 2: Dar formato a diversas queries** (3 puntos)
 
