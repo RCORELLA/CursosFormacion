@@ -47,7 +47,7 @@ Usar un parámetro Ruta, para indicar el directorio donde están almacenados los
 	
 	Asegurarnos de que la calidad de las columnas están todas "Válidas"
 	
-	![](Recursos/punto1.png)
+![](Recursos/punto1.png)
 	
 2.1.2 Ventas (1 punto)
 
@@ -69,7 +69,7 @@ Usar un parámetro Ruta, para indicar el directorio donde están almacenados los
 	- Solamente vamos a trabajar las ventas que tienen "Location Code"
 	- Los valores que no tengan "Area Código" o sea null, poner como "OTROS"
 	
-	![](Recursos/punto2.png)
+![](Recursos/punto2.png)
 		
 2.1.3 Productos (0,5 puntos)
 
@@ -81,7 +81,7 @@ Usar un parámetro Ruta, para indicar el directorio donde están almacenados los
 		
 	- En caso de que "Item Category Code" sea null poner "99 OTROS"
 	
-	![](Recursos/punto3.png)
+![](Recursos/punto3.png)
 	
 2.1.4 Ventas con importe de venta (0,5 puntos)
 
