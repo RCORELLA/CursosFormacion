@@ -75,7 +75,8 @@ Usar un parámetro Ruta, para indicar el directorio donde están almacenados los
 
 	- Renombrar la consulta Sheet1 por Productos
 	- Dejar las columnas
-	    * No.
+	
+		* No.
 		* Unit Price
 		* Item Category Code
 		
@@ -92,7 +93,9 @@ Usar un parámetro Ruta, para indicar el directorio donde están almacenados los
 Comprobación de Registros:
 
 Productos: 1323
+
 Clientes: 4278
+
 Ventas: 2090
 
 
@@ -131,6 +134,7 @@ Establece una relación entre la tabla de hechos de ventas y la tabla de dimensi
 En la tabla Ventas, incluye una columna "Sales Amount" que incluirá la columna "Quantity" multiplicado por la columna "Unit price"
 
 Crea una medida en la tabla ventas, utilizando la función "CALCULATE" y "SAMEPERIODLASTYEAR" para calcular las ventas del año anterior ("Sales Amount LY").
+
 Crea una medida en la tabla ventas, en la que tengamos la variación en porcentaje (se valorará usar variables)
 
 
@@ -159,4 +163,4 @@ Guardar el fichero como "Ventas Contoso NOMBRE APELLIDO.pbix" en "c:\MisSolucion
 
 
 
-15 de Marzo 2023        @rccorella
+16 de Marzo 2023        @rccorella
