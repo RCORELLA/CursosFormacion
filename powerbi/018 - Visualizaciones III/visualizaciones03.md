@@ -59,9 +59,9 @@ Ojo con la ordenación por años.
 
 10 - Añadir una línea vertical sombreada y de color verde.
 
-8 - Guardar el fichero como "Ventas Cronus.pbix"
+11 - Guardar el fichero como "Ventas Cronus.pbix"
 
 
 
 
-21 de Marzo 2023        @rccorella
+23 de Marzo 2023        @rccorella
