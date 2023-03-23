@@ -17,7 +17,7 @@ Abrir el fichero que tendremos en nuestra carpeta "c:\misSoluciones_XX\Ventas Cr
 
 Mostrar unos visualizadores para dejarlo como la imagen:
 
-![](Recursos/resultado.png)
+![](Recursos/resultado2.png)
 
 Incluye
 
