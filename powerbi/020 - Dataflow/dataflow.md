@@ -31,7 +31,7 @@ Crearemos un sitio en SharePoint llamado PowerBI y crearemos, dentro de document
 
 4 - Importaremos los 4 ficheros en una sola tabla
 
-5 - Convertiremos la tabla fecha en formato Fecha
+5 - Convertiremos la columna fecha en formato Fecha
 
 	Tip.  Es posible que tengamos que usar alguna transformación para no tener que usar el cambio regional.
 	
