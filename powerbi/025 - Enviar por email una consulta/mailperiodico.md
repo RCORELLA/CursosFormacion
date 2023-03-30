@@ -9,7 +9,6 @@ Usaremos
 	- Microsoft Power Automate
 	- Microsoft Power BI
 
-![](Recursos/aplicaciones.png)
 
 **Preparación**
 
@@ -17,7 +16,7 @@ Tener el entorno del servicio web de Power BI y acceso con el usuario de la plat
 
 Necesitaremos el ejercicio 020 reservas.pbix
 
-** Power BI Desktop**
+**Power BI Desktop**
 
 1 - En el ejercicio 020, preparamos unas medidas, que nos indicaban las entradas y las salidas de hoy.
 
@@ -31,10 +30,10 @@ Vamos a añadir dos medidas nuevas: Entradas de mañana y salidas de mañana.  L
 
 3 - Obtendremos la consulta que realiza Power BI.  Para ello, usaremos el Analizador de rendimiento
 
-	- Iniciar grabación
-	- Actualizar Objetos visuales
-	- localizar la tarjeta 
-	- copiar la consulta
+	- 1 Pinchar en Analizador de rendimiento
+	- 2 Iniciar grabación
+	- 3 Actualizar Objetos visuales y localizar la tarjeta 
+	- 4 copiar la consulta
 	
 ![](Recursos/consulta.png)
 
@@ -45,7 +44,7 @@ Será algo similar a esto:
 Lo guardamos en un notepad para usarlo después en el punto 8
 
 
-** Power Automate **
+**Power Automate**
 
 4 - Vamos a crear un flujo periódico que envíe diariamente las entradas y salidas, consultando el Servicio de Power BI
 
@@ -74,8 +73,10 @@ Lo guardamos en un notepad para usarlo después en el punto 8
 	- Area de trabajo -> Area XX
 	- Conjunto de datos -> Reservas
 	- Texto de la consulta, será el texto obtenido en el punto 3.
+	
+![](Recursos/consultaconjunto.png)
 
-9 - Buscamos un conector "Operación de datos" para crear una tabla HTML 
+9 - Añadimos un nuevo paso y buscamos un conector "Operación de datos" para crear una tabla HTML 
 
 ![](Recursos/datos.png)
 
