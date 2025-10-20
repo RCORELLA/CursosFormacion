@@ -13,7 +13,7 @@ Descargar la carpeta **internacional**, que se encuentra en "Recursos".  Guardar
 
 Para descargar la carpeta, pincha este enlace:
 
-[Link Descarga](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/RCORELLA/CursosFormacion/tree/main/powerbi/004%20-%20Importaci%C3%B3n%20Carpetas/Recursos/Internacional)
+https://pruebasformacion.blob.core.windows.net/power/powerbi/internacional.zip
 
 
 Cuando abrimos Power BI, por defecto nos va a poner la configuración regional española.  Los datos están con formatos de fecha en inglés Americano, por lo que sería interesante, cambiar la configuración desde Fichero / Opciones / Configuración Regional "Inglés (Estados Unidos)"
@@ -65,3 +65,4 @@ Pulsar, aplicar cambios.
 
 
 13 de Marzo 2023        @rccorella
+
