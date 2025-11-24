@@ -36,7 +36,7 @@ Los informes paginados son ideales para:
 ## 🔧 PASO 1: Instalar Power BI Report Builder
 
 ### 1.1 Descargar la herramienta
-1. Ve a [Microsoft Download Center](https://www.microsoft.com/download/details.aspx?id=58158)
+1. Ve a [Report Builder](https://www.microsoft.com/en-us/download/details.aspx?id=105942)
 2. O desde Power BI Service:
    - Abre [app.powerbi.com](https://app.powerbi.com)
    - Haz clic en **Nuevo** > **Informe paginado**
@@ -90,13 +90,7 @@ Puedes añadir estas columnas adicionales para hacer el informe más interesante
 
 ### 3.2 Conectar con el origen de datos
 
-#### Opción A: Conexión directa a Excel
-1. En el asistente, haz clic en **Nuevo**
-2. Selecciona **Microsoft Excel**
-3. Haz clic en **Examinar** y selecciona tu archivo `ventas_diarias.xlsx`
-4. Haz clic en **Abrir** y luego **Siguiente**
-
-#### Opción B: A través de Power BI Service (Recomendado)
+#### A través de Power BI Service (Recomendado)
 1. En el asistente, haz clic en **Nuevo**
 2. Selecciona **Power BI Dataset**
 3. Inicia sesión en Power BI
@@ -360,5 +354,6 @@ Si encuentras algún error o tienes sugerencias, ¡contribuye al repositorio!
 Este tutorial es de dominio público. Úsalo libremente.
 
 ---
+
 
 **⭐ Si este tutorial te fue útil, dale una estrella en GitHub!**
